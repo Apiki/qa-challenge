@@ -1,5 +1,7 @@
 # Q.A. Challenge
 
+Desafio para os futuros profissionais da qualidade da Apiki.
+
 ## Introdução
 
 Escolhemos alguns cenários cruciais para validar se o https://blog.apiki.com está em perfeitas condições de funcionamento. 
