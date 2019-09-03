@@ -1,10 +1,12 @@
 # Q.A. Challenge
 
+## Introdução
+
 Escolhemos alguns cenários cruciais para validar se o https://blog.apiki.com está em perfeitas condições de funcionamento. 
 
 Com o [Cypress](https://www.cypress.io/) ou com alguma outra ferramenta de sua escolha, escreva as seguintes **asserções** que julgamos importantes para o correto funcionamento de nosso blog: 
 
-## Busca 
+### Busca 
 
 * Abertura do campo de digitação;
 * Foram encontrados resultados;
@@ -12,21 +14,31 @@ Com o [Cypress](https://www.cypress.io/) ou com alguma outra ferramenta de sua e
 * Resultados com paginação;
 * Resultados sem paginação; 
 
-## Newsletter
+### Newsletter
 
 * Campos obrigatórios;
 * E-mail inválido;
 * Mensagem de sucesso;
 
-## Menu
+### Menu
 
 * Abertura;
 * Possui itens;
 
-## Interna 
+### Interna 
 
 * Possui as seguintes meta tags:
   * og:image
   * og:description
   * og:title
   * og:url
+
+## Instruções
+
+1. Efetue o fork deste repositório e crie um branch com o seu nome e sobrenome. (exemplo: fulano-dasilva)
+2. Após finalizar o desafio, crie um Pull Request.
+3. Aguarde algum contribuidor realizar o code review.
+
+## Dúvidas
+
+Em caso de dúvidas, crie uma issue.
