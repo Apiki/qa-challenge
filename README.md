@@ -2,7 +2,7 @@
 
 Escolhemos alguns cenários cruciais para validar se o https://blog.apiki.com está em perfeitas condições de funcionamento. 
 
-Com o Cypress ou com alguma outra ferramenta de sua escolha, escreva as seguintes asserções que julgamos importantes para o correto funcionamento de nosso blog: 
+Com o [Cypress](https://www.cypress.io/) ou com alguma outra ferramenta de sua escolha, escreva as seguintes asserções que julgamos importantes para o correto funcionamento de nosso blog: 
 
 ## Busca 
 
